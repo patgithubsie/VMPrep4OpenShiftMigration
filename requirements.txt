@@ -1,0 +1,3 @@
+pwinput
+pyvmomi
+python-dotenv
